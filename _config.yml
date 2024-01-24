@@ -1,5 +1,7 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+title: Carbon
+description: 当我们方便（随时随地）地使用电子商务、大语言模型、云计算等服务的时候，是遍布在世界各地的数据中心完成了这些数据处理和计算的工作。然而，随着这些这些业务的快速增长，数据中心面临着能耗和碳排体量巨大的挑战。
+考虑到风电和光伏等清洁能源发电在不同地点、不同时段的出力不同，且数据中心的计算任务具有转移灵活性，我们开发了面向碳中和的数据中心能源-信息协同调度优化管理系统。该系统根据可以将计算任务转移到这些可再生能源发电最充足的时间和地点，或者电价更低的地方，以实现减少数据中心的碳足迹和用能成本、助力可再生能源消纳的目标。
+.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
