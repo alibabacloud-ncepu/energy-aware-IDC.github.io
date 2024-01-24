@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+In the context of carbon peaking and carbon neutrality, we develope a Carbon Neutrality Driven Data Center Energy Management and Job Scheduling System to enhance the energy efficiency of data centers. This system aims to promote sustainable development for the data center industry, and contribute to the consumption of renewable energy in the power grid.
 
 ## Header 2
 
