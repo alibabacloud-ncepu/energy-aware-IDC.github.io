@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Descrption
+# Carbon Neutrality-driven Data Center Energy Management and Job Scheduling System
 
 When we use e-commerce, large language models and other services in our daily life, data centers undertake the data processing and computation jobs. However, with the rapid growth of these businesses, data centers face significant challenges in energy consumption and carbon emissions.
 We developed a Carbon Neutrality-driven Data Center Energy Management and Job Scheduling System, which enables the transfer of computing tasks to the time and location with higher renewable energy generation or lower electricity prices, reducing the carbon footprint and energy costs and promote renewable energy integration.
