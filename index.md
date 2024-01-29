@@ -16,7 +16,8 @@ Our approach has been applied and verified in Alibaba's data centers.In April 20
 ![张北-南通](https://github.com/ncepu-alibaba/0124_test_cayman.github.io/assets/157337916/ce9282f8-e314-4d5d-a674-06d55342c370)
 
 Our project has been reported globally, including in IEEE IAS Magazine and by China's national news agency. The system has received honors such as the Geneva International Patent Award and the First Prize in the UNIDO Global Call, providing an innovative and replicable solution for the low-carbon operation of data centers.
-![unido获奖照片](https://github.com/ncepu-alibaba/0124_test_cayman.github.io/assets/157337916/43d1ab47-8a9a-4cfe-91ec-2ec5d10a8a7b)
+![image](https://github.com/ncepu-alibaba/information_energy_nexus.github.io/assets/157337916/bda027fd-6007-4ada-9c48-65b993d2997e)
+
 
 In terms of industry recognition, the above research achievements have supported Alibaba Cloud data centers in winning awards in various green and low-carbon practice evaluations conducted by national ministries and industry organizations. Data centers that have implemented our solution have received prestigious awards, including the "2022 Dual Transformation Collaborative Typical Cases" award from the Cyberspace Administration of China and recognition among the "Top Ten Outstanding Cases for National Carbon Neutrality."
 
