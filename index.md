@@ -11,25 +11,14 @@ Renewable energy from sources such as wind and solar power is one key solution t
 ![时间灵活性动图](https://github.com/ncepu-alibaba/0124_test_cayman.github.io/assets/157337916/998020f6-5018-4c88-a6c2-72bbd3352a2b)
 ![空间灵活性](https://github.com/ncepu-alibaba/0124_test_cayman.github.io/assets/157337916/67363c26-18f1-4181-9014-58be9dcc40e9)
 
-In April 2022, we successfully achieved the first collaborative scheduling between data centers and the power system by transferring computing tasks from a data center in Jiangsu province to another data center in Hebei province, taking advantage of the regional differences in renewable energy generation. In doing so, our system realized clear carbon emission reductions.
-Currently, our approach has been applied and verified in Alibaba's data centers. Based on experimental results, the application of this technology can achieve a carbon emission reduction of 2.5 tons of CO2 and save 1.53 million yuan of energy costs annually in a typical data center. This technology can contribute to a more inclusive, green, and cost-effective supply of data center computing power.
+Our approach has been applied and verified in Alibaba's data centers.In April 2022, we successfully achieved the first collaborative scheduling between data centers and the power system by transferring computing tasks from a data center in Jiangsu province to another data center in Hebei province, taking advantage of the regional differences in renewable energy generation. In doing so, our system realized clear carbon emission reductions.
 ![张北数据中心外景](https://github.com/ncepu-alibaba/0124_test_cayman.github.io/assets/157337916/dc88d8d9-9061-4456-a6a1-e026301e604b)
 ![张北-南通](https://github.com/ncepu-alibaba/0124_test_cayman.github.io/assets/157337916/ce9282f8-e314-4d5d-a674-06d55342c370)
 
 Our project has been reported globally, including in IEEE IAS Magazine and by China's national news agency. The system has received honors such as the Geneva International Patent Award and the First Prize in the UNIDO Global Call, providing an innovative and replicable solution for the low-carbon operation of data centers.
 ![unido获奖照片](https://github.com/ncepu-alibaba/0124_test_cayman.github.io/assets/157337916/43d1ab47-8a9a-4cfe-91ec-2ec5d10a8a7b)
+![image](https://github.com/ncepu-alibaba/0124_test_cayman.github.io/assets/157337916/cefa6806-578f-4ac2-9927-d34dc84680a7)
 
 In terms of industry recognition, the above research achievements have supported Alibaba Cloud data centers in winning awards in various green and low-carbon practice evaluations conducted by national ministries and industry organizations. Data centers that have implemented our solution have received prestigious awards, including the "2022 Dual Transformation Collaborative Typical Cases" award from the Cyberspace Administration of China and recognition among the "Top Ten Outstanding Cases for National Carbon Neutrality."
 
-The project has received funding from National Key Research and Development Program, the National Natural Science Foundation programs of China. It has also received funding from Alibaba for the CCF-AIR project and research-oriented internships. Our solution has received funding from national-level initiatives such as the National Natural Science Foundation of China and has been featured in esteemed journals like IEEE TIA and Applied Energy. Moreover, it has yielded multiple national invention patents. 
-
-
-
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+The project has received funding from National Key Research and Development Program, the National Natural Science Foundation programs of China. It has also received funding from Alibaba for the CCF-AIR project. Our solution has received funding from national-level initiatives such as the National Natural Science Foundation of China and has been featured in esteemed journals like IEEE TIA and Applied Energy. Moreover, it has yielded multiple national invention patents. 
