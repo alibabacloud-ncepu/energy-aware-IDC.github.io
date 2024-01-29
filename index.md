@@ -4,34 +4,20 @@ layout: default
 
 # Carbon Neutrality-driven Data Center Energy Management and Job Scheduling System
 
-When we use e-commerce, large language models and other services in our daily life, data centers undertake the data processing and computation jobs. However, with the rapid growth of these businesses, data centers face significant challenges in energy consumption and carbon emissions.
-We developed a Carbon Neutrality-driven Data Center Energy Management and Job Scheduling System, which enables the transfer of computing tasks to the time and location with higher renewable energy generation or lower electricity prices, reducing the carbon footprint and energy costs and promote renewable energy integration.
+When we use e-commerce, large language models, cloud computing, and other services in our daily life, it is data centers around the world that complete the data processing and computation jobs. Given the rapid growth of these businesses, data centers are at the forefront of digitalization's energy consumption and carbon emissions challenges.
 ![image](https://github.com/ncepu-alibaba/0124_test_cayman.github.io/assets/157337916/6f466776-62e3-4654-8e09-6215aea8a15b)
 
-In 2022, we achieved carbon emission reduction by transferring computing tasks from a data center in Jiangsu to another data center in Hebei, marked the world's first coordinated scheduling between data center and power system.
-
+Renewable energy from sources such as wind and solar power is one key solution to the challenge, but its power will vary at different locations and times. We have developed a Carbon Neutrality-driven Data Center Energy Management and Job Scheduling System to leverage transfer flexibility in many computing tasks. This system enables the transfer of computing tasks to times and locations with more abundant renewable energy generation or lower electricity prices, aiming to reduce the carbon footprint and energy costs of data centers and contribute to the integration of renewable energy into data center operations.
 ![时间灵活性动图](https://github.com/ncepu-alibaba/0124_test_cayman.github.io/assets/157337916/998020f6-5018-4c88-a6c2-72bbd3352a2b)
 ![空间灵活性](https://github.com/ncepu-alibaba/0124_test_cayman.github.io/assets/157337916/67363c26-18f1-4181-9014-58be9dcc40e9)
 
-
-
-## Implementation
-
-In 2022, Alibaba Data Center and the State Grid Corporation of China have successfully implemented and validated our method. In April 2022, we achieved a groundbreaking milestone by achieving the world's first collaborative scheduling between data centers and the power system, resulting in a reduction in carbon emissions through the scheduling of data center computing power. These accomplishments garnered media attention from Xinhua News Agency.
-
+In April 2022, we successfully achieved the first collaborative scheduling between data centers and the power system by transferring computing tasks from a data center in Jiangsu province to another data center in Hebei province, taking advantage of the regional differences in renewable energy generation. In doing so, our system realized clear carbon emission reductions.
+Currently, our approach has been applied and verified in Alibaba's data centers. Based on experimental results, the application of this technology can achieve a carbon emission reduction of 2.5 tons of CO2 and save 1.53 million yuan of energy costs annually in a typical data center. This technology can contribute to a more inclusive, green, and cost-effective supply of data center computing power.
+![张北数据中心外景](https://github.com/ncepu-alibaba/0124_test_cayman.github.io/assets/157337916/dc88d8d9-9061-4456-a6a1-e026301e604b)
 ![张北-南通](https://github.com/ncepu-alibaba/0124_test_cayman.github.io/assets/157337916/ce9282f8-e314-4d5d-a674-06d55342c370)
 
-
-## Recognition
-
-> This project has achieved numerous research and practical results and has gained wide recognition internationally. 
-
-Research Achievements:
-
-In terms of industry recognition, the innovative achievements and practical implementations have received honors such as the Global First Prize in the United Nations Industrial Development Organization Global Call, the Best Academic Paper at the China Computational Power Conference organized and the Geneva International Patent Award. The achievements have also been included in Alibaba 's 2023 ESG Report.
+Our project has been reported globally, including in IEEE IAS Magazine and by China's national news agency. The system has received honors such as the Geneva International Patent Award and the First Prize in the UNIDO Global Call, providing an innovative and replicable solution for the low-carbon operation of data centers.
 ![unido获奖照片](https://github.com/ncepu-alibaba/0124_test_cayman.github.io/assets/157337916/43d1ab47-8a9a-4cfe-91ec-2ec5d10a8a7b)
-
-
 
 In terms of industry recognition, the above research achievements have supported Alibaba Cloud data centers in winning awards in various green and low-carbon practice evaluations conducted by national ministries and industry organizations. Data centers that have implemented our solution have received prestigious awards, including the "2022 Dual Transformation Collaborative Typical Cases" award from the Cyberspace Administration of China and recognition among the "Top Ten Outstanding Cases for National Carbon Neutrality."
 
