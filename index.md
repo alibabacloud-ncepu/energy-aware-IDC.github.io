@@ -23,6 +23,7 @@ Our project has been reported globally, including in IEEE IAS Magazine and by Ch
 ![unido获奖照片](https://github.com/alibabacloud-ncepu/energy-aware-IDC.github.io/assets/158121496/9e1f5bf7-cde1-4aad-b51f-6f171fea2326)
 
 [First Prize in UNIDO Global Call](https://www.alizila.com/alibaba-news-roundup-aliexpress-spain-wins-e-commerce-award-alibaba-cloud-recognized-for-energy-efficiency-tools/).
+
 [Coverage by ChinaReports](http://www.chinareports.org.cn/tytxy/2023/1110/40841.html).
 
 ![53705c9210722b02bda54e539c3b26b](https://github.com/alibabacloud-ncepu/energy-aware-IDC.github.io/assets/158121496/7b7299a3-bc21-4f15-885f-eecac56ac4a3)
