@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Carbon Neutrality-driven Data Center Energy Management and Job Scheduling System
-
 When we use e-commerce, large language models, cloud computing, and other services in our daily life, it is data centers around the world that complete the data processing and computation jobs. Given the rapid growth of these businesses, data centers are at the forefront of digitalization's energy consumption and carbon emissions challenges.
 ![image](https://github.com/ncepu-alibaba/0124_test_cayman.github.io/assets/157337916/6f466776-62e3-4654-8e09-6215aea8a15b)
 
