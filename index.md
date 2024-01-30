@@ -19,15 +19,22 @@ Our approach has been applied and verified in Alibaba's data centers.In April 20
 
 
 Our project has been reported globally, including in IEEE IAS Magazine and by China's national news agency. The system has received honors such as the Geneva International Patent Award, the First Prize in the UNIDO Global Call and Best Paper in China Computational Power Conference, providing an innovative and replicable solution for the low-carbon operation of data centers. The achievements have also been included in Alibaba's 2023 ESG Report.
-![image](https://github.com/alibabacloud-ncepu/energy-aware-IDC.github.io/assets/158121496/f8f31b62-8d57-4a15-9f5a-6163493025ae)
+
+![unido获奖照片](https://github.com/alibabacloud-ncepu/energy-aware-IDC.github.io/assets/158121496/9e1f5bf7-cde1-4aad-b51f-6f171fea2326)
 
 [First Prize in UNIDO Global Call](https://www.alizila.com/alibaba-news-roundup-aliexpress-spain-wins-e-commerce-award-alibaba-cloud-recognized-for-energy-efficiency-tools/).
-
 [Coverage by ChinaReports](http://www.chinareports.org.cn/tytxy/2023/1110/40841.html).
+
+![53705c9210722b02bda54e539c3b26b](https://github.com/alibabacloud-ncepu/energy-aware-IDC.github.io/assets/158121496/7b7299a3-bc21-4f15-885f-eecac56ac4a3)
 
 [Best Paper in China Computational Power Conference](https://mp.weixin.qq.com/s/eg3T0m9yvFsY4-ayfz9thQ).
 
+![image](https://github.com/alibabacloud-ncepu/energy-aware-IDC.github.io/assets/158121496/4f7332a8-78f0-40bb-b6be-2bb00a02635a)
+
 [In Alibaba's ESG Report (Page 34)](https://www.alibabagroup.com/esg).
+
+![证书](https://github.com/alibabacloud-ncepu/energy-aware-IDC.github.io/assets/158121496/6c9bce2b-441b-47bf-a500-6d7d109b2d2a)
+
 
 In terms of industry recognition, the above research achievements have supported Alibaba Cloud data centers in winning awards in various green and low-carbon practice evaluations conducted by national ministries and industry organizations. Data centers that have implemented our solution have received prestigious awards, including the "2022 Dual Transformation Collaborative Typical Cases" award from the Cyberspace Administration of China and recognition among the "Top Ten Outstanding Cases for National Carbon Neutrality."
 
