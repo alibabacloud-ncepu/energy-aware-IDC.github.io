@@ -37,6 +37,8 @@ Our project has been reported globally, including in IEEE IAS Magazine and by Ch
 
 In terms of industry recognition, the above research achievements have supported Alibaba Cloud data centers in winning awards in various green and low-carbon practice evaluations conducted by national ministries and industry organizations. Data centers that have implemented our solution have received prestigious awards, including the "2022 Dual Transformation Collaborative Typical Cases" award from the Cyberspace Administration of China and recognition among the "Top Ten Outstanding Cases for National Carbon Neutrality."
 
+![2f0fe03961ef7ff81c0dcab140a26de](https://github.com/alibabacloud-ncepu/energy-aware-IDC.github.io/assets/158121496/c9c104ba-8695-4350-a178-37b46efc4c9f)
+
 [Top Ten Outstanding Cases for Carbon Neutrality](https://mp.weixin.qq.com/s/vrcZo0V1qIyWjVAg5VPm4A).
 
 The project has received funding from National Key Research and Development Program, the National Natural Science Foundation programs of China. It has also received funding from Alibaba for the CCF-AIR project. Our solution has been featured in esteemed journals like IEEE TIA and Applied Energy. Moreover, it has yielded multiple national invention patents.
