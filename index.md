@@ -14,17 +14,23 @@ Renewable energy from sources such as wind and solar power is one key solution t
 Our approach has been applied and verified in Alibaba's data centers.In April 2022, we successfully achieved the first collaborative scheduling between data centers and the power system by transferring computing tasks from a data center in Jiangsu province to another data center in Hebei province, taking advantage of the regional differences in renewable energy generation. In doing so, our system realized clear carbon emission reductions.
 ![张北数据中心外景](https://github.com/ncepu-alibaba/0124_test_cayman.github.io/assets/157337916/dc88d8d9-9061-4456-a6a1-e026301e604b)
 ![张北-南通](https://github.com/ncepu-alibaba/0124_test_cayman.github.io/assets/157337916/ce9282f8-e314-4d5d-a674-06d55342c370)
-[Coverage by Xinhua News Agency](http://www.xinhuanet.com/energy/20220614/61c7291411ca42169f09045d084a4f6e/c.html).
+
+[First collaborative scheduling between data centers and the power system](http://www.xinhuanet.com/energy/20220614/61c7291411ca42169f09045d084a4f6e/c.html).
 
 
 Our project has been reported globally, including in IEEE IAS Magazine and by China's national news agency. The system has received honors such as the Geneva International Patent Award, the First Prize in the UNIDO Global Call and Best Paper in China Computational Power Conference, providing an innovative and replicable solution for the low-carbon operation of data centers. The achievements have also been included in Alibaba's 2023 ESG Report.
 ![image](https://github.com/alibabacloud-ncepu/energy-aware-IDC.github.io/assets/158121496/f8f31b62-8d57-4a15-9f5a-6163493025ae)
+
 [First Prize in UNIDO Global Call](https://www.alizila.com/alibaba-news-roundup-aliexpress-spain-wins-e-commerce-award-alibaba-cloud-recognized-for-energy-efficiency-tools/).
+
 [Coverage by ChinaReports](http://www.chinareports.org.cn/tytxy/2023/1110/40841.html).
+
 [Best Paper in China Computational Power Conference](https://mp.weixin.qq.com/s/eg3T0m9yvFsY4-ayfz9thQ).
+
 [In Alibaba's ESG Report (Page 34)](https://www.alibabagroup.com/esg).
 
 In terms of industry recognition, the above research achievements have supported Alibaba Cloud data centers in winning awards in various green and low-carbon practice evaluations conducted by national ministries and industry organizations. Data centers that have implemented our solution have received prestigious awards, including the "2022 Dual Transformation Collaborative Typical Cases" award from the Cyberspace Administration of China and recognition among the "Top Ten Outstanding Cases for National Carbon Neutrality."
+
 [Top Ten Outstanding Cases for Carbon Neutrality](https://mp.weixin.qq.com/s/vrcZo0V1qIyWjVAg5VPm4A).
 
 The project has received funding from National Key Research and Development Program, the National Natural Science Foundation programs of China. It has also received funding from Alibaba for the CCF-AIR project. Our solution has been featured in esteemed journals like IEEE TIA and Applied Energy. Moreover, it has yielded multiple national invention patents. 
