@@ -14,7 +14,8 @@ Renewable energy from sources such as wind and solar power is one key solution t
 Our approach has been applied and verified in Alibaba's data centers.In April 2022, we successfully achieved the first collaborative scheduling between data centers and the power system by transferring computing tasks from a data center in Jiangsu province to another data center in Hebei province, taking advantage of the regional differences in renewable energy generation. In doing so, our system realized clear carbon emission reductions.
 ![张北数据中心外景](https://github.com/ncepu-alibaba/0124_test_cayman.github.io/assets/157337916/dc88d8d9-9061-4456-a6a1-e026301e604b)
 ![张北-南通](https://github.com/ncepu-alibaba/0124_test_cayman.github.io/assets/157337916/ce9282f8-e314-4d5d-a674-06d55342c370)
-http://www.xinhuanet.com/energy/20220614/61c7291411ca42169f09045d084a4f6e/c.html
+[Coverage by Xinhua News Agency](http://www.xinhuanet.com/energy/20220614/61c7291411ca42169f09045d084a4f6e/c.html).
+
 
 Our project has been reported globally, including in IEEE IAS Magazine and by China's national news agency. The system has received honors such as the Geneva International Patent Award, the First Prize in the UNIDO Global Call and Best Paper in China Computational Power Conference, providing an innovative and replicable solution for the low-carbon operation of data centers. The achievements have also been included in Alibaba's 2023 ESG Report.
 ![image](https://github.com/alibabacloud-ncepu/energy-aware-IDC.github.io/assets/158121496/f8f31b62-8d57-4a15-9f5a-6163493025ae)
