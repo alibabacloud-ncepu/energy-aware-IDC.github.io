@@ -36,6 +36,6 @@ In terms of industry recognition, the above research achievements have supported
 The project has received funding from National Key Research and Development Program, the National Natural Science Foundation programs of China. It has also received funding from Alibaba for the CCF-AIR project. Our solution has been featured in esteemed journals like IEEE TIA and Applied Energy. Moreover, it has yielded multiple national invention patents.
 > Liu W, Yan Y, Sun Y, et al. Online job scheduling scheme for low-carbon data center operation: An information and energy nexus perspective[J]. Applied Energy, 2023, 338: 120918.
 > [link](https://www.sciencedirect.com/science/article/abs/pii/S0306261923002829).
-> > Cao Y, Cheng M, Zhang S, et al. Data-driven flexibility assessment for internet data center towards periodic batch workloads[J]. Applied Energy, 2022, 324: 119665.
+>  Cao Y, Cheng M, Zhang S, et al. Data-driven flexibility assessment for internet data center towards periodic batch workloads[J]. Applied Energy, 2022, 324: 119665.
 > [link](https://www.sciencedirect.com/science/article/abs/pii/S0306261922009631).
 
